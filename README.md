@@ -28,6 +28,9 @@ To compile and run this project, you'll need:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/cloth-shop-management.git
+
+2. Navigate to the project directory:
+   ```bash
    cd cloth-shop-management
 
 2. Compile the code:
