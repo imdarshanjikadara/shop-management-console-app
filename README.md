@@ -81,4 +81,4 @@ After running the program, you will be presented with a menu to choose between S
 Contributions are welcome! Please feel free to submit a pull request or open an issue for suggestions and improvements.
 
 ## Licence
-This project is licensed under the MIT License - see the LICENSE() file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
