@@ -13,3 +13,27 @@ This project is a simple C++ console application that simulates a basic shop man
   - View the list of products available in the shop.
   - Purchase products by specifying the quantity.
   - View the total amount after purchasing products.
+
+## Getting Started
+
+### Prerequisites
+
+To compile and run this project, you'll need:
+
+- A C++ compiler (e.g., g++, clang++)
+- A terminal or command-line interface
+
+### Running the Project
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/cloth-shop-management.git
+   cd cloth-shop-management
+
+2. Compile the code:
+   ```bash
+   g++ main.cpp -o shop
+
+3. Run the executable:
+   ```bash
+   ./shop
