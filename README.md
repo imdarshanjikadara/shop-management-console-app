@@ -47,9 +47,9 @@ After running the program, you will be presented with a menu to choose between S
 ### Seller Mode
 
 1. Add Product:
-- Select "Seller mode" from the main menu.
-- Choose "Add product".
-- Enter the product name, price, and quantity when prompted.
+  - Select "Seller mode" from the main menu.
+  - Choose "Add product".
+  - Enter the product name, price, and quantity when prompted.
 
 2. Delete Product:
 - Choose "Delete product" from the Seller Mode menu.
