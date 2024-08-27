@@ -47,9 +47,9 @@ After running the program, you will be presented with a menu to choose between S
 ### Seller Mode
 
 1. Add Product:
-  - Select "Seller mode" from the main menu.
-  - Choose "Add product".
-  - Enter the product name, price, and quantity when prompted.
+- Select "Seller mode" from the main menu.
+- Choose "Add product".
+- Enter the product name, price, and quantity when prompted.
 
 2. Delete Product:
 - Choose "Delete product" from the Seller Mode menu.
@@ -72,3 +72,13 @@ After running the program, you will be presented with a menu to choose between S
 - Specify the quantity.
 - Continue adding products until you type `done`.
 - The program will then display the total amount and confirm payment.
+
+### Exiting the Program
+
+- To exit the program, choose the "Exit" option from the main menu.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue for suggestions and improvements.
+
+## Licence
+This project is licensed under the MIT License - see the LICENSE() file for details.
