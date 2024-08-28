@@ -81,4 +81,4 @@ After running the program, you will be presented with a menu to choose between S
 Contributions are welcome! Please feel free to submit a pull request or open an issue for suggestions and improvements.
 
 ## Licence
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE(https://github.com/imdarshanjikadara/shop-management-console-app/blob/2cdcf7efa6af69e227d7748beba2100b57d503dd/LICENSE.md) file for details.
